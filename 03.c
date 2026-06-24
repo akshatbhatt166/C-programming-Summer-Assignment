@@ -2,7 +2,7 @@
 
 int main() {
     int n, i;
-    unsigned long long fact = 1; // use long long for large results
+    unsigned long long fact = 1; 
 
     printf("Enter a number: ");
     scanf("%d", &n);
