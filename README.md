@@ -19,11 +19,11 @@ A collection of C programs written as part of a 30-day summer assignment. The re
 
 # Repository Structure
 
-Q1.c
-Q2.c
-...
-Q120.c
-README.md
+**Q1.c
+  Q2.c
+    ...
+      Q120.c**
+  README.md
 
 Each source file corresponds to its respective question number in the assignment.
 
