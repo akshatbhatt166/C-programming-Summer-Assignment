@@ -20,7 +20,10 @@ A collection of C programs written as part of a 30-day summer assignment. The re
 # Repository Structure
 
 **Q01.c<br>
-  Q02.c<br>  .  .  .  .
+  Q02.c<br> 
+     .<br>
+     .<br>
+     .<br>
   Q120.c**<br>
   README.md
 
